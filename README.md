@@ -1,0 +1,1 @@
+A CNN for recognizing japanese characters. This is a simple classification problem solved using neural networks.
